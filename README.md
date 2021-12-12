@@ -1,7 +1,8 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+## Performing analysis on Kickstarter data to uncover trends
 ### An Analysis of Kickstarter Campaigns.
-test putting in a chart
----
-![Prnt Cat Outcomes Chart](https://user-images.githubusercontent.com/95188079/145317781-60616366-d8de-453d-957c-94592c18c725.png)
-![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/95188079/145317808-91f15178-3839-4015-bb9b-990072064cde.png)
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95188079/145723990-d098cd26-1ab7-4972-a1e9-b280d36b5993.png)
+
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95188079/145723996-6db766f2-4535-4124-80f2-7ce8fee9f771.png)
