@@ -14,13 +14,17 @@ Lastly, a pivot table was created to review project outcome by the goal of the p
 The below chart represents the project outcome for projects vs their launch date.
 Conclusion 1: There is a spike in successful projects in May and June.
 Conclusion 2: January had the most canceled projects.
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95188079/145723990-d098cd26-1ab7-4972-a1e9-b280d36b5993.png)
+
 
 The below chart represents the project outcome vs the goal.
 Conclusion 1: The highest percentage of successful projects were in the "Less than 1000" and "1000 to 4999" ranges.
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95188079/145723996-6db766f2-4535-4124-80f2-7ce8fee9f771.png)
 
-One limitation on the data set it lack of data on the project owner, including how many previous Kickstarter campaigns they had and their outcomes.  There could perhaps be a trend of someone failing on their first campaign but succeeding on later ones.
+
+One limitation on the data set it lack of data on the project owner, including how many previous Kickstarter campaigns they had and their outcomes.  There could perhaps be a trend of someone failing on their first campaign but succeeding on later ones.  Additional graphs could be created to project outcome to either average donation amount or number of backers.
 
 
 
